@@ -1,0 +1,51 @@
+body{
+    background-image:url(https://i.pinimg.com/736x/12/05/cf/1205cf5eafc4b4568a520d06718e5cef.jpg);
+    padding: 20px;
+    max-width: 500px;
+    background-size: contain;
+}
+.menu{
+    background-color:beige;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    padding:0;
+}
+h1,h2,p{
+    text-align: center;
+}
+img{
+    display: block;
+    width: 200px;;
+    height: 200px;
+}
+
+.mere{height: 200px;
+margin-top:-235px;
+margin-left: 30%;}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: brown;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    color: aliceblue;
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+}
+li a :hover{
+    color: black;
+}
+
+
+
+
